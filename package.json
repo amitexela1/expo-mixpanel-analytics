@@ -1,5 +1,5 @@
 {
-  "name": "@amitexela1/expo-mixpanel-analytics",
+  "name": "@bothrs/expo-mixpanel-analytics",
   "version": "2.0.3",
   "description": "Mixpanel integration for use with React Native apps built on Expo 39.",
   "main": "dist/src/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amitexela1/expo-mixpanel-analytics.git"
+    "url": "git+https://github.com/bothrs/expo-mixpanel-analytics.git"
   },
   "keywords": [
     "react",
@@ -25,6 +25,9 @@
   ],
   "author": "Ben Awad",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codekadiya/expo-mixpanel-analytics/issues"
+  },
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.17.11",
     "buffer": "6",
