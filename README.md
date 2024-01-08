@@ -7,7 +7,7 @@ Forked from `@benawad/expo-mixpanel-analytics` to add support for Expo 39.
 ## Installation
 
 ```
-npm install @bothrs/expo-mixpanel-analytics --save
+npm install @amitexela1/expo-mixpanel-analytics --save
 ```
 
 ## Import
@@ -15,7 +15,7 @@ npm install @bothrs/expo-mixpanel-analytics --save
 Your React Native app's screen resolution, app name, app ID, app version, device information and multiple other parameters will be automatically resolved and sent with each event.
 
 ```
-import ExpoMixpanelAnalytics from '@bothrs/expo-mixpanel-analytics';
+import ExpoMixpanelAnalytics from '@amitexela1/expo-mixpanel-analytics';
 ```
 
 ## Usage
